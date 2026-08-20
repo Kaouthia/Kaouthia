@@ -14,12 +14,13 @@ When I'm not coding, I'm usually doing stuff like this with the things I coded.
 ### 🌱 I’m currently learning...
 
 - More about hybrid vector/relational search stuff (that doesn't involve LLMs)
-- How to add Ethernet and PoE to my ESP32-S3 PCBs instead of relying on USB and WiFi for power and communication
-- This list changes far too often for me to keep up, but we'll see how it goes.
+- How to add Ethernet and PoE to my ESP32-S3-based custom PCB projects instead of relying on USB and WiFi for power and communication
+- This list changes far too often for me to keep up, but we'll see how it goes
 
 ### 👯 I’m looking to collaborate on...
 
-- Anything that sounds fun and interesting. Hit me up.
+- Anything that sounds fun and interesting. Hit me up
+- Interesting and unusual ESP32 (any variant) stuff
 
 ### ⚡ Side note...
 
