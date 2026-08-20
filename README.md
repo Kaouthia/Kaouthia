@@ -1,12 +1,12 @@
 ## I create tools and software that gets stuff done
 
-When I'm not coding, I'm usually doing stuff like this with the things I coded.
+When I'm not coding, I'm usually doing stuff like this with the things I built and coded.
 
 [![Metallica M72 at Hampden Park](https://github.com/Kaouthia/Kaouthia/blob/main/metallica_thumbnail.jpg?raw=true)](https://youtu.be/SR0cnTrYOZk)
 
 ### 🔭 I’m currently working on...
 
-- [Growlapse](https://growlapse.net/) - A long-term timelapse intervalometer and camera trigger with [a few tricks up its sleeve](https://youtu.be/Q1sggIBAV44)
+- [Growlapse](https://www.growlapse.net/) - A long-term timelapse intervalometer and camera trigger with [a few tricks up its sleeve](https://youtu.be/Q1sggIBAV44)
 - [DIYPhotography](http://diyphotography.net/) - I'm Editor in Chief, so I have to
 - My personality
 
@@ -24,3 +24,5 @@ When I'm not coding, I'm usually doing stuff like this with the things I coded.
 ### ⚡ Side note...
 
 - I ran a large dialup BBS in the UK in the mid-late '90s. If you were part of the UK scene back then, shoot me a message. I'd love to chat and catch up if we knew each other - or just chat if we didn't.
+
+🌐 [johnaldred.com](https://www.johnaldred.com/) / ▶️ [@johnaldred](https://www.youtube.com/johnaldred) / 🌱 [Growlapse](https://www.growlapse.net/)
