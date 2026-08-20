@@ -1,4 +1,5 @@
 ## I create tools and software that gets stuff done
+🌐 [johnaldred.com](https://www.johnaldred.com/) / ▶️ [@johnaldred](https://www.youtube.com/johnaldred) / 🌱 [Growlapse](https://www.growlapse.net/)
 
 When I'm not coding, I'm usually doing stuff like this with the things I built and coded.
 
@@ -25,4 +26,3 @@ When I'm not coding, I'm usually doing stuff like this with the things I built a
 
 - I ran a large dialup BBS in the UK in the mid-late '90s. If you were part of the UK scene back then, shoot me a message. I'd love to chat and catch up if we knew each other - or just chat if we didn't.
 
-🌐 [johnaldred.com](https://www.johnaldred.com/) / ▶️ [@johnaldred](https://www.youtube.com/johnaldred) / 🌱 [Growlapse](https://www.growlapse.net/)
