@@ -6,7 +6,7 @@ When I'm not coding, I'm usually doing stuff like this with the things I coded.
 
 ### 🔭 I’m currently working on...
 
-- [Growlapse](https://growlapse.net/) - A long-term timelapse intervalometer and camera trigger with a few tricks up its sleeve
+- [Growlapse](https://growlapse.net/) - A long-term timelapse intervalometer and camera trigger with [a few tricks up its sleeve](https://youtu.be/Q1sggIBAV44)
 - [Sigdrift](https://www.sigdrift.net/forums/index.php) - My "I miss the early 2000s Internet" home
 - [DIYPhotography](http://diyphotography.net/) - I'm Editor in Chief, so I have to
 - My personality
